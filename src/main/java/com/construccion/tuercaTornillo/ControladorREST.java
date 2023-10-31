@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class ControladorREST {
-    @GetMapping("/")
+    @GetMapping("/index")
     public String comienzo(){
-        return "Hola banda en String alv";
+        return "index";
     }
 }
