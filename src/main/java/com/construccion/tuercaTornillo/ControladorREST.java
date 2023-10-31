@@ -9,12 +9,12 @@ package com.construccion.tuercaTornillo;
  * @author nava
  */
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.stereotype.Controller;
 
-@RestController
+@Controller
 public class ControladorREST {
-    @GetMapping("/index")
+    @GetMapping("/index-pages")
     public String comienzo(){
-        return "index";
+        return "indexPages";
     }
 }
