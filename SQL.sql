@@ -1,7 +1,3 @@
--- Language: plpgsql
-
--- DROP LANGUAGE IF EXISTS plpgsql
-
 CREATE OR REPLACE TRUSTED PROCEDURAL LANGUAGE plpgsql
     HANDLER plpgsql_call_handler
     INLINE plpgsql_inline_handler
