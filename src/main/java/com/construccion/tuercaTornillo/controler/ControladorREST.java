@@ -15,6 +15,6 @@ import org.springframework.stereotype.Controller;
 public class ControladorREST {
     @GetMapping("/index-pages")
     public String comienzo(){
-        return "indexPages";
+        return "logCliente";
     }
 }
