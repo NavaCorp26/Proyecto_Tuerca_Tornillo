@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Model.csproj": {}
+    "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Model.csproj": {
+    "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Model.csproj",
+        "projectUniqueName": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Model.csproj",
         "projectName": "Proyecto-CS.Model",
-        "projectPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Model.csproj",
+        "projectPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Model.csproj",
         "packagesPath": "C:\\Users\\nava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS-Model\\obj\\",
+        "outputPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nava\\AppData\\Roaming\\NuGet\\NuGet.Config",

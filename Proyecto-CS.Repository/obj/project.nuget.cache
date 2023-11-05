@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "del7aNGrSASHgo0Jg2OeaaTAikyuD7vJ3cgqXBvDyZsj//6Z/W49T+m2dQFOcAm8LKkygt26itWx51iEXJseKA==",
+  "dgSpecHash": "6CKnTZ4QGObUNQbrUmoF5uq6kCjTZzpKUlVhsD3bggeN1FFj0kUog1sRaazDmQ5JUu8vUOfkU34BNIMg5aeDOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS.Repository\\Proyecto-CS.Repository.csproj",
+  "projectFilePath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS.Repository\\Proyecto-CS.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nava\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\nava\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS-Controller\\Proyecto-CS.Controller.csproj",
+      "projectUniqueName": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Controller\\Proyecto-CS.Controller.csproj",
       "projectName": "Proyecto-CS.Controller",
-      "projectPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS-Controller\\Proyecto-CS.Controller.csproj",
+      "projectPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Controller\\Proyecto-CS.Controller.csproj",
       "packagesPath": "C:\\Users\\nava\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS-Controller\\obj\\",
+      "outputPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Controller\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nava\\AppData\\Roaming\\NuGet\\NuGet.Config",

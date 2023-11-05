@@ -1082,11 +1082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS.Repository\\Proyecto-CS.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS.Repository\\Proyecto-CS.Repository.csproj",
       "projectName": "Proyecto-CS.Repository",
-      "projectPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS.Repository\\Proyecto-CS.Repository.csproj",
+      "projectPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS.Repository\\Proyecto-CS.Repository.csproj",
       "packagesPath": "C:\\Users\\nava\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS.Repository\\obj\\",
+      "outputPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nava\\AppData\\Roaming\\NuGet\\NuGet.Config",
