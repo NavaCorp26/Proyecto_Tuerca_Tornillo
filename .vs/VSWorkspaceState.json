@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github\\workflows",
+    "\\Proyecto-CS",
+    "\\Proyecto-CS\\bin\\Debug",
+    "\\Proyecto-CS\\bin\\Release",
+    "\\Proyecto-CS\\obj\\Debug",
+    "\\Proyecto-CS\\wwwroot\\css",
+    "\\Proyecto-CS\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\Proyecto-CS\\Proyecto-CS.csproj",
+  "PreviewInSolutionExplorer": false
+}
