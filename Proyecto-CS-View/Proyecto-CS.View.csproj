@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Proyecto-CS-Controller\Proyecto-CS.BLL.csproj" />
     <ProjectReference Include="..\Proyecto-CS-Model\Proyecto-CS.Models.csproj" />
   </ItemGroup>

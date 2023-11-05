@@ -1,0 +1,23 @@
+﻿@page
+@model ConexionModel
+@{
+    ViewBag.Title = "Prueba de Conexión";
+}
+
+<h2>Prueba de Conexión</h2>
+
+@if (ViewBag.ConexionExitosa != null)
+{
+    if (ViewBag.ConexionExitosa)
+    {
+        <p>La conexión a la base de datos fue exitosa.</p>
+    }
+    else
+    {
+        <p>Error al conectar a la base de datos.</p>
+    }
+}
+else
+{
+    <p>La conexión no se ha probado aún.</p>
+}
