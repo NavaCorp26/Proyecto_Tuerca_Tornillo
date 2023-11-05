@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mzmTRHyX52FQr0IxRzmwXRpntu+B4W6LMaKAYtHeE3I4xCxOcPkj38TAdnRwPJQSfNimJhYkBOPDk3/YrCRxNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS\\Proyecto-CS-View\\Proyecto-CS.View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nava\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\nava\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\nava\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\nava\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

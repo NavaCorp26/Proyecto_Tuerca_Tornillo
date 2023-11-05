@@ -1,0 +1,14 @@
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\bin\Debug\net6.0\Proyecto-CS.Repository.deps.json
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\bin\Debug\net6.0\Proyecto-CS.Repository.dll
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\bin\Debug\net6.0\Proyecto-CS.Repository.pdb
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.Repository.AssemblyInfoInputs.cache
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.Repository.AssemblyInfo.cs
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.Repository.dll
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\refint\Proyecto-CS.Repository.dll
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.Repository.pdb
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\ref\Proyecto-CS.Repository.dll
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.Repository.csproj.AssemblyReference.cache
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\bin\Debug\net6.0\Proyecto-CS.Repository.runtimeconfig.json
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.Repository.genruntimeconfig.cache
