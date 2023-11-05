@@ -19,7 +19,7 @@ namespace Proyecto_CS.DAL
 
         public SqlConnection ObtenerConexion()
         {
-            string cadenaConexion = _configuration.GetConnectionString("MiConexion");
+            string cadenaConexion = _configuration.GetConnectionString("cadenaSQL");
             return new SqlConnection(cadenaConexion);
         }
     }
