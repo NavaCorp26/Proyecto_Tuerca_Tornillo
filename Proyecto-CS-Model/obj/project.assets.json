@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Model.csproj",
-      "projectName": "Proyecto-CS.Model",
-      "projectPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Model.csproj",
+      "projectUniqueName": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Models.csproj",
+      "projectName": "Proyecto-CS.Models",
+      "projectPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Models.csproj",
       "packagesPath": "C:\\Users\\nava\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\obj\\",
       "projectStyle": "PackageReference",

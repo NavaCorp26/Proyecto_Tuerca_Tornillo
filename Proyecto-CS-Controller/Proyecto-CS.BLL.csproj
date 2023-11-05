@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Proyecto_CS_Controller</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Proyecto-CS-Model\Proyecto-CS.Models.csproj" />
+    <ProjectReference Include="..\Proyecto-CS.Repository\Proyecto-CS.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

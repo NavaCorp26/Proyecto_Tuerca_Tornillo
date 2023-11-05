@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w25jT2YSKMtyNBWSWSnIP+jHP+iqv0a3Hgv4Cm4F865YKyDOtiGmG7hS34fB/AD3DeVuP6ODG7M9J+zHh/mmqw==",
+  "dgSpecHash": "/g4QDIzSJ7NRHdNzhD6URdJ8kJ10k9TOnSc4vbNTkks8uF3sPMtbsXT0aVLQVCnpgbz/zCJ4yc7YRTdGlL4SLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Model.csproj",
+  "projectFilePath": "C:\\Users\\nava\\Desktop\\Proyecto_Grupo_F\\Proyecto-CS\\Proyecto-CS-Model\\Proyecto-CS.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nava\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
     "C:\\Users\\nava\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",

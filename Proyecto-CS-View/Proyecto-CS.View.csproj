@@ -7,4 +7,9 @@
     <RootNamespace>Proyecto_CS_View</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Proyecto-CS-Controller\Proyecto-CS.BLL.csproj" />
+    <ProjectReference Include="..\Proyecto-CS-Model\Proyecto-CS.Models.csproj" />
+  </ItemGroup>
+
 </Project>

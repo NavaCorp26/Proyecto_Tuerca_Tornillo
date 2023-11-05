@@ -1,0 +1,17 @@
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\bin\Debug\net6.0\Proyecto-CS.DAL.deps.json
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\bin\Debug\net6.0\Proyecto-CS.DAL.runtimeconfig.json
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\bin\Debug\net6.0\Proyecto-CS.DAL.dll
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\bin\Debug\net6.0\Proyecto-CS.DAL.pdb
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\bin\Debug\net6.0\Proyecto-CS.Models.dll
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\bin\Debug\net6.0\Proyecto-CS.Models.pdb
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.DAL.csproj.AssemblyReference.cache
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.DAL.AssemblyInfoInputs.cache
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.DAL.AssemblyInfo.cs
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.DAL.csproj.CopyComplete
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.DAL.dll
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\refint\Proyecto-CS.DAL.dll
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.DAL.pdb
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\Proyecto-CS.DAL.genruntimeconfig.cache
+C:\Users\nava\Desktop\Proyecto_Grupo_F\Proyecto-CS\Proyecto-CS.Repository\obj\Debug\net6.0\ref\Proyecto-CS.DAL.dll
